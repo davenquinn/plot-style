@@ -26,4 +26,3 @@ def axis_labels(*axes, pad=0.14, ypos=1, **kwargs):
         a.text(-pad,ypos, ascii_uppercase[i+offset],
                transform=a.transAxes, **defaults)
 
-
