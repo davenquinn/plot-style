@@ -1,0 +1,19 @@
+font:
+  family: [sans-serif]
+  sans-serif:
+    - Gotham Book
+    - Helvetica Neue
+    - Helvetica
+    - Arial
+    - sans-serif
+  weight: 400
+mathtext:
+  default: regular
+axes:
+  facecolor: white
+  grid: false
+  edgecolor: black
+  labelweight: 500
+xtick:
+  labelsize: small
+
